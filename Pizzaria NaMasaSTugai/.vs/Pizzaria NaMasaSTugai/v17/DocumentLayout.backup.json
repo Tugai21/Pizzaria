@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\repos\\Pizzaria NaMasaSTugai\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA871B5-0CA6-4C3F-81A5-C41F8781C742}|Pizzaria NaMasaSTugai\\Pizzaria NaMasaSTugai.csproj|d:\\repos\\pizzaria namasastugai\\pizzaria namasastugai\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFA871B5-0CA6-4C3F-81A5-C41F8781C742}|Pizzaria NaMasaSTugai\\Pizzaria NaMasaSTugai.csproj|solutionrelative:pizzaria namasastugai\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA871B5-0CA6-4C3F-81A5-C41F8781C742}|Pizzaria NaMasaSTugai\\Pizzaria NaMasaSTugai.csproj|d:\\repos\\pizzaria namasastugai\\pizzaria namasastugai\\classes\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFA871B5-0CA6-4C3F-81A5-C41F8781C742}|Pizzaria NaMasaSTugai\\Pizzaria NaMasaSTugai.csproj|solutionrelative:pizzaria namasastugai\\classes\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA871B5-0CA6-4C3F-81A5-C41F8781C742}|Pizzaria NaMasaSTugai\\Pizzaria NaMasaSTugai.csproj|d:\\repos\\pizzaria namasastugai\\pizzaria namasastugai\\classes\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFA871B5-0CA6-4C3F-81A5-C41F8781C742}|Pizzaria NaMasaSTugai\\Pizzaria NaMasaSTugai.csproj|solutionrelative:pizzaria namasastugai\\classes\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA871B5-0CA6-4C3F-81A5-C41F8781C742}|Pizzaria NaMasaSTugai\\Pizzaria NaMasaSTugai.csproj|d:\\repos\\pizzaria namasastugai\\pizzaria namasastugai\\classes\\bosspizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFA871B5-0CA6-4C3F-81A5-C41F8781C742}|Pizzaria NaMasaSTugai\\Pizzaria NaMasaSTugai.csproj|solutionrelative:pizzaria namasastugai\\classes\\bosspizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA871B5-0CA6-4C3F-81A5-C41F8781C742}|Pizzaria NaMasaSTugai\\Pizzaria NaMasaSTugai.csproj|d:\\repos\\pizzaria namasastugai\\pizzaria namasastugai\\classes\\margaritapizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFA871B5-0CA6-4C3F-81A5-C41F8781C742}|Pizzaria NaMasaSTugai\\Pizzaria NaMasaSTugai.csproj|solutionrelative:pizzaria namasastugai\\classes\\margaritapizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA871B5-0CA6-4C3F-81A5-C41F8781C742}|Pizzaria NaMasaSTugai\\Pizzaria NaMasaSTugai.csproj|d:\\repos\\pizzaria namasastugai\\pizzaria namasastugai\\interfaces\\ipizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFA871B5-0CA6-4C3F-81A5-C41F8781C742}|Pizzaria NaMasaSTugai\\Pizzaria NaMasaSTugai.csproj|solutionrelative:pizzaria namasastugai\\interfaces\\ipizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA871B5-0CA6-4C3F-81A5-C41F8781C742}|Pizzaria NaMasaSTugai\\Pizzaria NaMasaSTugai.csproj|d:\\repos\\pizzaria namasastugai\\pizzaria namasastugai\\pizzaria namasastugai.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BFA871B5-0CA6-4C3F-81A5-C41F8781C742}|Pizzaria NaMasaSTugai\\Pizzaria NaMasaSTugai.csproj|solutionrelative:pizzaria namasastugai\\pizzaria namasastugai.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 228,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\repos\\Pizzaria NaMasaSTugai\\Pizzaria NaMasaSTugai\\Classes\\Order.cs",
+              "RelativeDocumentMoniker": "Pizzaria NaMasaSTugai\\Classes\\Order.cs",
+              "ToolTip": "D:\\repos\\Pizzaria NaMasaSTugai\\Pizzaria NaMasaSTugai\\Classes\\Order.cs",
+              "RelativeToolTip": "Pizzaria NaMasaSTugai\\Classes\\Order.cs",
+              "ViewState": "AgIAAAUAAAAA/v////8TwBMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T09:59:42.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BossPizza.cs",
+              "DocumentMoniker": "D:\\repos\\Pizzaria NaMasaSTugai\\Pizzaria NaMasaSTugai\\Classes\\BossPizza.cs",
+              "RelativeDocumentMoniker": "Pizzaria NaMasaSTugai\\Classes\\BossPizza.cs",
+              "ToolTip": "D:\\repos\\Pizzaria NaMasaSTugai\\Pizzaria NaMasaSTugai\\Classes\\BossPizza.cs",
+              "RelativeToolTip": "Pizzaria NaMasaSTugai\\Classes\\BossPizza.cs",
+              "ViewState": "AgIAABQAAAAAwczMzMwEwB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T09:58:27.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MargaritaPizza.cs",
+              "DocumentMoniker": "D:\\repos\\Pizzaria NaMasaSTugai\\Pizzaria NaMasaSTugai\\Classes\\MargaritaPizza.cs",
+              "RelativeDocumentMoniker": "Pizzaria NaMasaSTugai\\Classes\\MargaritaPizza.cs",
+              "ToolTip": "D:\\repos\\Pizzaria NaMasaSTugai\\Pizzaria NaMasaSTugai\\Classes\\MargaritaPizza.cs",
+              "RelativeToolTip": "Pizzaria NaMasaSTugai\\Classes\\MargaritaPizza.cs",
+              "ViewState": "AgIAAAkAAAAAIJmZmZnJvxsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T09:57:50.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pizza.cs",
+              "DocumentMoniker": "D:\\repos\\Pizzaria NaMasaSTugai\\Pizzaria NaMasaSTugai\\Classes\\Pizza.cs",
+              "RelativeDocumentMoniker": "Pizzaria NaMasaSTugai\\Classes\\Pizza.cs",
+              "ToolTip": "D:\\repos\\Pizzaria NaMasaSTugai\\Pizzaria NaMasaSTugai\\Classes\\Pizza.cs",
+              "RelativeToolTip": "Pizzaria NaMasaSTugai\\Classes\\Pizza.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T09:57:12.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IPizza.cs",
+              "DocumentMoniker": "D:\\repos\\Pizzaria NaMasaSTugai\\Pizzaria NaMasaSTugai\\Interfaces\\IPizza.cs",
+              "RelativeDocumentMoniker": "Pizzaria NaMasaSTugai\\Interfaces\\IPizza.cs",
+              "ToolTip": "D:\\repos\\Pizzaria NaMasaSTugai\\Pizzaria NaMasaSTugai\\Interfaces\\IPizza.cs",
+              "RelativeToolTip": "Pizzaria NaMasaSTugai\\Interfaces\\IPizza.cs",
+              "ViewState": "AgIAAAYAAACALjMzMzMLwA4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T11:43:38.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\repos\\Pizzaria NaMasaSTugai\\Pizzaria NaMasaSTugai\\Program.cs",
+              "RelativeDocumentMoniker": "Pizzaria NaMasaSTugai\\Program.cs",
+              "ToolTip": "D:\\repos\\Pizzaria NaMasaSTugai\\Pizzaria NaMasaSTugai\\Program.cs",
+              "RelativeToolTip": "Pizzaria NaMasaSTugai\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T11:42:39.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Pizzaria NaMasaSTugai.csproj",
+              "DocumentMoniker": "D:\\repos\\Pizzaria NaMasaSTugai\\Pizzaria NaMasaSTugai\\Pizzaria NaMasaSTugai.csproj",
+              "RelativeDocumentMoniker": "Pizzaria NaMasaSTugai\\Pizzaria NaMasaSTugai.csproj",
+              "ToolTip": "D:\\repos\\Pizzaria NaMasaSTugai\\Pizzaria NaMasaSTugai\\Pizzaria NaMasaSTugai.csproj",
+              "RelativeToolTip": "Pizzaria NaMasaSTugai\\Pizzaria NaMasaSTugai.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-28T11:57:12.507Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
